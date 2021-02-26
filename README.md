@@ -1,1 +1,2 @@
-# Jiffies
+# Jiffies Project
+# Nicholas Aoki
